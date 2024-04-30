@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 96%;
+}
+
+body {
+  font-family: "Scheherazade New", serif;
+  
+  font-weight: 400;
+  font-style: normal;
+  
+  background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-light-paper-texture-textured-background-picture-image_1043204.jpg");
+  background-size: 300px 100px;
+     }
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+   }
+h4 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  }
+
+#container1  {
+    width: 80%;
+  }
+
+.styled-list {
+  direction: rtl;
+  padding-right: 5px;
+  }
+
+@font-face {
+    font-family: "KFGQPC Uthman Taha Naskh Regular";
+    src: url("  <link href="https://replit.com/@fahimahmad123go/HTML-CSS-JS?mobileBridge=1&hideBottomBar=1&forceTheme=replitDark&mobileWebview=1&hideChatInput=1&supportsUpsellBridge=1#KFGQPC%20Uthman%20Taha%20Naskh%20Regular.ttf" rel="stylesheet">");
+}
